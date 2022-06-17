@@ -16,8 +16,6 @@ To execute the notebook, use the following commands
 julia> using Pluto
 julia> Pluto.run()
 ```
-and navigate to the Notebook.jl file using the Pluto.jl browser interface.
+and navigate to the Notebook.jl file using the Pluto.jl browser interface. To execute cells, use `Shift + Enter`.
 
-To execute cells, use `Shift + Enter`.
-
-If you have any further questions, feel free to message me at [rafael.arutjunjan@fdm.uni-freiburg.de](mailto:rafael.arutjunjan@fdm.uni-freiburg.de?subject=Re: LivingMaterials2022 - Model-Driven Optimization of Biological Systems).
+If you have any further questions, feel free to message me at [rafael.arutjunjan@fdm.uni-freiburg.de](mailto:rafael.arutjunjan@fdm.uni-freiburg.de).
